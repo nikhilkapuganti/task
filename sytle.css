@@ -1,0 +1,81 @@
+
+.navbar{
+    background-color: black !important;
+}
+.navbar .navbar-brand{
+    color: #FFF;
+}
+
+.navbar .navbar-brand:hover{
+    color: #FFF;
+    
+}
+
+.navbar .navbar-nav li a{
+    color: #FFF ! important;
+}
+    
+/*
+.button{
+    margin-top: 350px;
+}
+*/
+.black{
+    margin-top: 190px;
+
+}
+.red{
+    margin-top: 350px; 
+}
+
+.close{
+    color: white;
+}
+.nikhil{
+    margin-top: 130px;
+    
+}
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+.akhil{
+    border:0.5px solid black;
+}
+html, body, header, footer{
+    height:100%;
+    }
+
+
+
+.card-body{
+padding-left: 100px;
+    background-color: black;
+}
+
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    height: 2em;
+     /* position: absolute;  */
+     position:relative; 
+    margin-top:auto; 
+    /* z-index:1; */
+
+  }
+  .flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between
+  }
+  .badge{
+      padding: 10px;
+  }
